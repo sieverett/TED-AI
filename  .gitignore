@@ -1,0 +1,5 @@
+# .gitignore
+
+.streamlit/
+.DS_Store
+__pycache__
